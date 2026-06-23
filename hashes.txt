@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de pasión
+
+This log tracks the cryptographic history and versioning for the song **Caricia de pasión** (caricia-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:59:50.226118 | `v1` | `a7c287ff3b8445dda7bff4b63ffc140c9d2365ebe867919e340c5b449052a445` | `b5f059adbb6c1a18e955d26c7befbcdeef87ffa1e2c9c5ef6236ff0d7c8001b0` | `2026-06-23_caricia-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Caricia de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-pasion/) |
+| **Get License** | [Commercial Licensing for Caricia de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a7c287ff3b8445dda7bff4b63ffc140c9d2365ebe867919e340c5b449052a445` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

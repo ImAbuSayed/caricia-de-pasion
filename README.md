@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caricia de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-pasion/) |
+| **Get License** | [Official Music Licensing for Caricia de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me llaman en medio de la oscuridad
+> Baby, esta noche nos perdemos en la ciudad
+> Tu cuerpo es un arte, pura exclusividad
+> Me tienes envuelto, perdiendo la gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
